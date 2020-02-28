@@ -1,0 +1,3 @@
+export const MAPS_LIST_INIT = '[MAPS] MAPS_LIST_INIT';
+export const MAPS_LIST_SUCCESS = '[MAPS] MAPS_LIST_SUCCESS';
+export const MAPS_LIST_ERROR = '[MAPS] MAPS_LIST_ERROR';
