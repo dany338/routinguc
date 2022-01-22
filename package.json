@@ -14,7 +14,7 @@
     "leaflet": "^1.6.0",
     "leaflet-control-geocoder": "^1.12.1",
     "prop-types": "^15.7.2",
-    "nanoid": "^2.1.11",
+    "nanoid": "^3.1.31",
     "react-hook-form": "^4.9.8",
     "react-leaflet": "^2.6.1",
     "react-loading-skeleton": "^2.0.1",
